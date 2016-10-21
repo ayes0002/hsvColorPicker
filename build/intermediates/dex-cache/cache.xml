@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/hjalmarayestas/Desktop/MAD9132/HSVColorPicker/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/hjalmarayestas/Desktop/MAD9132/HSVColorPicker/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_5cb68c53c08823648f28befa4f9ade9a7f9de092.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hjalmarayestas/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/hjalmarayestas/Desktop/MAD9132/HSVColorPicker/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_6124f5ad8e40d89476dba16f8e7bea2509d0adcb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hjalmarayestas/Desktop/MAD9132/HSVColorPicker/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/hjalmarayestas/Desktop/MAD9132/HSVColorPicker/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_052c206728143515b90a81a5e8c3c690a5ca9267.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hjalmarayestas/Desktop/MAD9132/HSVColorPicker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/hjalmarayestas/Desktop/MAD9132/HSVColorPicker/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_0043135b1f41a0689b930c1ee839b3c91c0dee4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hjalmarayestas/Desktop/MAD9132/HSVColorPicker/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/hjalmarayestas/Desktop/MAD9132/HSVColorPicker/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_011d165a078e4eb1f204a311c42cd9a16793e843.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hjalmarayestas/Desktop/MAD9132/HSVColorPicker/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/hjalmarayestas/Desktop/MAD9132/HSVColorPicker/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_80b0435c39d728fec0484824e3db4a4dbe77e1f5.jar" />
+    </item>
+
+</items>
